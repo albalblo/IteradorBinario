@@ -3,9 +3,9 @@ Toma una string arbitraria de hasta 32 caracteres no especiales (el resto son ig
 
 Por ejemplo, el input "Marcos" retorna:
 <table>
-  <td>Input: "a.nA"</td><td>Input: "Marcos"</td><td>Input: "ç "</td><td>Input: "."</td>
+  <th>Input: "a.nA"</th><th>Input: "Marcos"</th><th>Input: "ç "</th><th>Input: "."</th>
   <tr><td>a.na</td><td>marcos</td><td>ç </td><td>.</td></tr>
-  <tr><td>A.na</td><<td>Marcos</td>td>Ç </td></tr>
+  <tr><td>A.na</td><td>Marcos</td><td>Ç </td></tr>
   <tr><td>a.Na</td><td>mArcos</td></tr>
   <tr><td>A.Na</td><td>MArcos</td></tr>
   <tr><td>a.nA</td><td>maRcos</td></tr>
