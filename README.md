@@ -1,7 +1,7 @@
 # IteradorBinario
 Toma una string arbitraria de hasta 32 caracteres no especiales (el resto son ignorados) y devuelve un array con todas las posibles comparaciones de mayúsculas y minúsculas.
 
-Por ejemplo, el input "Marcos" retorna:
+Por ejemplo, algunos inputs:
 <table>
   <th>Input: "a.nA"</th><th>Input: "Marcos"</th><th>Input: "ç "</th><th>Input: "."</th>
   <tr><td>a.na</td><td>marcos</td><td>ç </td><td>.</td></tr>
